@@ -10,4 +10,5 @@ public class FiascoSpringApplication {
 		SpringApplication.run(FiascoSpringApplication.class, args);
 	}
 
+	
 }
